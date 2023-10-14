@@ -8,6 +8,9 @@ https://social-byly-ai.onrender.com/
 * Mouhamadoufadilou Diop - [mouhamadoufadiop](https://learn.zone01dakar.sn/git/mouhamadoufadiop)
 * Abdou Khadre Wade - [serwade](https://learn.zone01dakar.sn/git/serwade)
 * Alimoudine Idrissou - [ialimoud](https://learn.zone01dakar.sn/git/ialimoud)
+* mabalde - [mabalde](https://learn.zone01dakar.sn/git/mabalde)
+* ediallo - [ediallo](https://learn.zone01dakar.sn/git/ediallo)
+
 
 
 

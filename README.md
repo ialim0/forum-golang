@@ -1,13 +1,15 @@
 # Forum-advanced-features
 
+You can test the project here: 
+
+https://social-byly-ai.onrender.com/
+
 # Auteurs
 * Mouhamadoufadilou Diop - [mouhamadoufadiop](https://learn.zone01dakar.sn/git/mouhamadoufadiop)
 * Abdou Khadre Wade - [serwade](https://learn.zone01dakar.sn/git/serwade)
 * Alimoudine Idrissou - [ialimoud](https://learn.zone01dakar.sn/git/ialimoud)
 
-You can test the project hhere: 
 
-https://social-byly-ai.onrender.com/
 
 
 #  Comment utiliser notre projet :

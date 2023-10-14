@@ -7,7 +7,7 @@ You can test the project here:
 * Mouhamadoufadilou Diop - [mouhamadoufadiop](https://learn.zone01dakar.sn/git/mouhamadoufadiop)
 * Abdou Khadre Wade - [serwade](https://learn.zone01dakar.sn/git/serwade)
 * Alimoudine Idrissou - [ialimoud](https://learn.zone01dakar.sn/git/ialimoud)
-* mabalde - [mabalde](https://learn.zone01dakar.sn/git/mabalde)
+* mamadou balde - [mabalde](https://learn.zone01dakar.sn/git/mabalde)
 * Ibrahima  Diallo - [ediallo](https://learn.zone01dakar.sn/git/ediallo)
 
 

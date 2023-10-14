@@ -2,7 +2,6 @@
 
 You can test the project here: 
 
-https://social-byly-ai.onrender.com/
 
 # Auteurs
 * Mouhamadoufadilou Diop - [mouhamadoufadiop](https://learn.zone01dakar.sn/git/mouhamadoufadiop)

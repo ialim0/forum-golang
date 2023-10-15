@@ -251,8 +251,6 @@ func createPost(w http.ResponseWriter, r *http.Request) {
 		}
 		defer f.Close()
 		io.Copy(f, file)
-	} else {
-		createError(w, r, http.StatusBadRequest)
 	}
 
 	if !data.Message.ValidateThreads() {
@@ -274,13 +272,14 @@ func createPost(w http.ResponseWriter, r *http.Request) {
 		}
 		return
 	}
-
-	if data.Post.Title == "" || data.Post.Content == "" || r.Form["threads"] == nil {
+	if len(r.FormValue("title")) == 0 || len(r.FormValue("content")) == 0 || len(r.Form["threads"]) == 0 {
 		createError(w, r, http.StatusBadRequest)
+
+	} else {
+		addPost(database, r.FormValue("title"), fileName, r.FormValue("content"), r.Form["threads"], data.User.Id, 0, 0)
 
 	}
 
-	addPost(database, r.FormValue("title"), fileName, r.FormValue("content"), r.Form["threads"], data.User.Id, 0, 0)
 	http.Redirect(w, r, "/", http.StatusSeeOther)
 
 }
